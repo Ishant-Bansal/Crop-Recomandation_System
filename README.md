@@ -116,21 +116,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or feedback, feel free to reach out via GitHub or email.
 
----
 
-## 👨‍💻 Author
-
-- **Ishant Bansal**
-- GitHub: [@Ishant-Bansal](https://github.com/Ishant-Bansal)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📞 Contact
-
-For questions or feedback, feel free to reach out via GitHub or email.
